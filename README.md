@@ -8,5 +8,8 @@ This folder has three files:
   - A .csv with a small table that has fiscal indicators of the country (taken from IMF's Fiscal Monitor).
 
 ## visualization
-this folder contains two files:
-  - 
+This folder contains two files:
+  - A HTML widget with teh visualization (Population Growth by country).
+  - A .R script with the code used for the visualization. 
+
+
